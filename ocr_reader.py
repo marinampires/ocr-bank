@@ -6,14 +6,6 @@ def parse(numero_em_texto):
     }
 
   return mapa_texto_para_numero[numero_em_texto]
-  #if(numero_em_texto == numero_um()):
-    #return 1
-
-  #if(numero_em_texto == numero_dois()):
-    #return 2
-
-  #if(numero_em_texto == numero_tres()):
-    #return 3
 
 def numero_um():
   return  "   " + \
